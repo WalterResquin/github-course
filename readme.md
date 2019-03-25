@@ -4,8 +4,9 @@ Arquivo da primeira aula do curso de Git e GitHub.
 
 Este e um repositorio teste para ensinar como o Git funciona.
 
-Saiba mais em github.com.
+Saiba mais em github.com
 
 Goustou do curso?  Ajude com uma doacao =)
 
-walter.resquin@yahoo.com.br
+E-mail: walter.resquin@yahoo.com.br
+
